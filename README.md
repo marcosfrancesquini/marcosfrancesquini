@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcosfrancesquini
 - 👀 I’m interested in space, philosofy and code!
-- 🌱 I’m currently studying Java and get better in Javascript, Node.JS, MERN, etc.
+- 🌱 I’m currently studying Java and get better in Javascript, Node.JS, MERN, PHP, etc.
 - ❤️ With Ruby on Rails always in my heart!
 - 💞️ I’m looking to collaborate on ERP Development.
 - 📫 How to reach me - francesquini.personal@gmail.com
