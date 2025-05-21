@@ -31,12 +31,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=marcosfrancesquini&theme=gruvbox&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
