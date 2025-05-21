@@ -75,13 +75,3 @@
 
 ---
 
-## 🐍 Snake Animation
-
-![snake gif](https://github.com/marcosfrancesquini/marcosfrancesquini/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🧠 Metrics
-
-![Metrics](https://raw.githubusercontent.com/marcosfrancesquini/marcosfrancesquini/main/github-metrics.svg)
-
