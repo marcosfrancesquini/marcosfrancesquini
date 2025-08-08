@@ -13,7 +13,7 @@
 - ❤️ **Ruby on Rails** sempre no meu coração, e agora trabalhando com **PHP**  
 - 💼 Buscando colaborar com projetos de **ERP Development**  
 - 📫 Me contate: **francesquini.personal@gmail.com**  
-- ⚡ Fato curioso: Tenho medo de altura, mas já trabalhei subindo em torres de **40 metros** 😅  
+- ⚡ Fato curioso: Tenho fobia de altura, mas já trabalhei subindo em torres de **40 metros** 😅  
 
 ---
 
