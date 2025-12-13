@@ -9,9 +9,9 @@
 ## 🧠 Sobre mim
 
 - 👀 Interessado em **espaço, filosofia e programação**  
-- 🌱 Estudando **Java, JavaScript, Node.js, MERN, PHP, React**  
+- 🌱 Domínio **Java, JavaScript, Node.js, MERN, PHP, React, AI**  
 - ❤️ **Ruby on Rails** sempre no meu coração, e agora trabalhando com **PHP**  
-- 💼 Colaborando com projeto de **ERP Development**
+- 💼 **ERP Development,CRM, Estoque, Área Médica e Financeira**
 - 📫 Me contate: **francesquini.personal@gmail.com**  
 - ⚡ Fato curioso: Tenho fobia de altura, mas já trabalhei subindo em torres de **40 metros** 😅  
 
