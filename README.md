@@ -34,17 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Marcos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosfrancesquini&show_icons=true&theme=gruvbox&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfrancesquini&layout=compact&theme=gruvbox)
-
-</div>
-
----
-
 ## 🌐 Redes Sociais
 
 <p align="center">
