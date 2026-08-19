@@ -14,7 +14,7 @@
 - 📱 Mobile e comunicação
 - 💼 **ERP, CRM, Estoque, Área Pública, Médica e Financeira**
 - 📫 Me contate: **francesquini.personal@gmail.com**  
-- ⚡ Fato curioso: Tenho fobia de altura, mas já trabalhei subindo em torres de **40 metros** 😅  
+- ⚡ Fato curioso: Tenho quase fobia de altura, mas já trabalhei subindo em torres de **40 metros** 😅  
 
 ---
 
