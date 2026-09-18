@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Marcos!</h1>
 
 <p align="center">
-🚀 Backend Developer | 🌌 Fascinated by Space & Philosophy | 💻 Code Lover
+🚀 Backend Developer | 🌌 Fascinated by Space, Philosophy and Vintage Computers| 💻 Code Lover
 </p>
 
 ---
